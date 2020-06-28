@@ -2,7 +2,7 @@
 let cacheName = 'clarrotcapstoneproject';
 // let caches;
 let filesToCache = [
-  'index.html'
+  'index.html',
   'assets/fonts/CircularStd-Bold.eot',
   'assets/fonts/CircularStd-Bold.otf',
   'assets/fonts/CircularStd-Bold.svg',
@@ -10,17 +10,14 @@ let filesToCache = [
   'assets/fonts/CircularStd-Bold.woff',
   'assets/img/work/GDBD/gdbd.gif',
   'assets/img/work/niuyou/niuyou.gif',
-  'assets/img/work/wegood/wegood.jpg'
-  'code.txt',
-  'contact.gif',
-  'TV.gif',
-  'js/app.js',
+  'assets/img/work/wegood/wegood.jpg',
+  'assets/img/code.txt',
+  'assets/img/contact.gif',
+  'assets/img/TV.gif',
   '.replit',
   'contact.html',
   'legal.html',
-  'starry.jpg',
   'manifest.json',
-  'registerServiceWorker.js',
   'script.js',
   'style.css',
   'work.html'
